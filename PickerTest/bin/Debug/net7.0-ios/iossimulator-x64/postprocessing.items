@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="PickerTest.app/PickerTest">
+      <BCSymbolMapName>PickerTest.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>PickerTest.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/jimm/Projects/Samples/PickerTest/PickerTest/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>PickerTest.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/jimm/Projects/Samples/PickerTest/PickerTest</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
